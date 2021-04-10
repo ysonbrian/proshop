@@ -24,7 +24,7 @@ Server [http://localhost:5000](http://localhost:5000)
 db.json contains data
 ```
 
-### `npm run build`
+### npm run build
 
 ```bash
 Builds the app for production to the `build` folder.
